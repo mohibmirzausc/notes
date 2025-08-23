@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create.md",
+                "file": "Leetcode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create"
+              "title": "Leetcode"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create.md",
+                "file": "Leetcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for create"
+              "title": "Backlinks for Leetcode"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "create.md",
+                "file": "Leetcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from create"
+              "title": "Outgoing links from Leetcode"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create.md",
+                "file": "Leetcode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of create"
+              "title": "Outline of Leetcode"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "499fc5cc3be18516",
   "lastOpenFiles": [
-    "Welcome.md",
     "create.md",
-    "create a link.md"
+    "create a link.md",
+    "Leetcode.md"
   ]
 }
