@@ -1,5 +1,5 @@
 {
-  "obsidian-git:push": [
+  "editor:save-file": [
     {
       "modifiers": [
         "Mod"
@@ -7,12 +7,12 @@
       "key": "S"
     }
   ],
-  "editor:save-file": [
+  "obsidian-git:push": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "S"
+      "key": "R"
     }
   ]
 }
