@@ -1,1 +1,0 @@
-[Layer1 Note](../Layer/Layer1%20Note.md)

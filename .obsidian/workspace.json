@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layer/Layer1 Note.md",
+                "file": "Knowledge Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer1 Note"
+              "title": "Knowledge Base"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layer/Layer1 Note.md",
+                "file": "Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Layer1 Note"
+              "title": "Backlinks for Knowledge Base"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layer/Layer1 Note.md",
+                "file": "Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Layer1 Note"
+              "title": "Outgoing links from Knowledge Base"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Layer/Layer1 Note.md",
+                "file": "Knowledge Base.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Layer1 Note"
+              "title": "Outline of Knowledge Base"
             }
           }
         ]
@@ -172,11 +172,14 @@
   },
   "active": "499fc5cc3be18516",
   "lastOpenFiles": [
+    "Knowledge/Leetcode/Leetcode.md",
+    "Knowledge Base.md",
+    "Knowledge/Leetcode",
+    "Knowledge",
+    "Layer/Leetcode/Asset.md",
     "Layer2/Layer2 Note.md",
-    "Layer/Layer1 Note.md",
+    "Layer/Leetcode/Layer1 Note test.md",
     "Layer2",
-    "Frontline.md",
-    "Layer/Asset.md",
     "Layer",
     "Layer/Leetcode",
     "create.md",
