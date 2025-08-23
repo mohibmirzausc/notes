@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Layer2/Layer2 Note.md",
+                "file": "Layer/Layer1 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layer2 Note"
+              "title": "Layer1 Note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Layer2/Layer2 Note.md",
+                "file": "Layer/Layer1 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Layer2 Note"
+              "title": "Backlinks for Layer1 Note"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Layer2/Layer2 Note.md",
+                "file": "Layer/Layer1 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Layer2 Note"
+              "title": "Outgoing links from Layer1 Note"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Layer2/Layer2 Note.md",
+                "file": "Layer/Layer1 Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Layer2 Note"
+              "title": "Outline of Layer1 Note"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "499fc5cc3be18516",
   "lastOpenFiles": [
-    "Layer/Layer1 Note.md",
     "Layer2/Layer2 Note.md",
+    "Layer/Layer1 Note.md",
     "Layer2",
     "Frontline.md",
     "Layer/Asset.md",
