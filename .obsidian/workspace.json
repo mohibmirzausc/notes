@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Leetcode/Problems/Untitled.md",
+                "file": "Knowledge/Leetcode/Problems/53. Maximum Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "53. Maximum Subarray"
             }
           },
           {
@@ -187,7 +187,7 @@
   "active": "499fc5cc3be18516",
   "lastOpenFiles": [
     "Knowledge/Leetcode/Leetcode.md",
-    "Knowledge/Leetcode/Problems/Untitled.md",
+    "Knowledge/Leetcode/Problems/53. Maximum Subarray.md",
     "Knowledge/Leetcode/Problems",
     "Knowledge Base.md",
     "Knowledge/Leetcode",
