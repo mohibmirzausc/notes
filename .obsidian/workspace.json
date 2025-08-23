@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode.md",
+                "file": "Frontline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
+              "title": "Frontline"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode.md",
+                "file": "Frontline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Leetcode"
+              "title": "Backlinks for Frontline"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leetcode.md",
+                "file": "Frontline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leetcode"
+              "title": "Outgoing links from Frontline"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode.md",
+                "file": "Frontline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Leetcode"
+              "title": "Outline of Frontline"
             }
           }
         ]
@@ -170,10 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "499fc5cc3be18516",
+  "active": "b331aec805f5025f",
   "lastOpenFiles": [
+    "Layer/Leetcode/Asset.md",
+    "Frontline.md",
+    "Layer",
+    "Layer/Leetcode",
     "create.md",
-    "create a link.md",
-    "Leetcode.md"
+    "create a link.md"
   ]
 }
