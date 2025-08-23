@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontline.md",
+                "file": "Layer2/Layer2 Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontline"
+              "title": "Layer2 Note"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontline.md",
+                "file": "Layer2/Layer2 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Frontline"
+              "title": "Backlinks for Layer2 Note"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontline.md",
+                "file": "Layer2/Layer2 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Frontline"
+              "title": "Outgoing links from Layer2 Note"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontline.md",
+                "file": "Layer2/Layer2 Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Frontline"
+              "title": "Outline of Layer2 Note"
             }
           }
         ]
@@ -172,8 +172,11 @@
   },
   "active": "499fc5cc3be18516",
   "lastOpenFiles": [
-    "Layer/Leetcode/Asset.md",
+    "Layer/Layer1 Note.md",
+    "Layer2/Layer2 Note.md",
+    "Layer2",
     "Frontline.md",
+    "Layer/Asset.md",
     "Layer",
     "Layer/Leetcode",
     "create.md",
