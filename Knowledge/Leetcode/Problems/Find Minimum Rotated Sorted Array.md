@@ -48,7 +48,7 @@ Explanation: The original array was `[11,13,15,17]` rotated 4 times.
 We use **binary search** to find the minimum element.  
 - If the leftmost value is less than the rightmost → the subarray is already sorted → return `nums[l]`.  
 - Otherwise, compute `mid = (l + r) // 2`.  
-  - If `nums[mid] > nums[r]`, then the minimum is in the **right half**.  
+  - If `nums[mid] > nums[r]`, then the minimum is in the **right half**.  *(explanation below)*
   - Else, the minimum is in the **left half**, including `mid`.  
 - Continue until `l == r`.  
 
@@ -80,8 +80,9 @@ class Solution(object):
 - This is a **binary search** problem, so the runtime is **O(log n)**.  
 
 - Key check:  
-  - If `nums[mid] > nums[r]` → go right because the domain would be 
-  - Else → go left (including `mid`).  
-- Works because the array is rotated but still sorted in two halves.  
+  - If `nums[mid] > nums[r]` → go right: because the domain of that subsection of the array is  (-inf, r) & (5, inf). 
+  - Else → go left (including `mid`): because the domain of that subsection would be (mid, r).
+
+- NOTE: Looking at the domains help show which side will contain the lesser item. Since it is sorted we can take advantage of this. 
 
 ---
