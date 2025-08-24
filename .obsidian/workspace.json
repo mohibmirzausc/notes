@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Leetcode/Problems/Find Minimum in Rotated Sorted Array.md",
+                "file": "Knowledge/Leetcode/Leetcode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find Minimum in Rotated Sorted Array"
+              "title": "Leetcode"
             }
           }
         ]
@@ -172,7 +172,9 @@
   },
   "active": "499fc5cc3be18516",
   "lastOpenFiles": [
+    "Problems/3Sum.md",
     "Knowledge/Leetcode/Leetcode.md",
+    "Problems",
     "Knowledge/Leetcode/Problems/Find Minimum in Rotated Sorted Array.md",
     "Knowledge/Leetcode/Problems/Maximum Subarray.md",
     "Knowledge/Leetcode/Problems/Maximum Product Subarray.md",
