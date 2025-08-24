@@ -80,7 +80,7 @@ class Solution(object):
 - This is a **binary search** problem, so the runtime is **O(log n)**.  
 
 - Key check:  
-  - If `nums[mid] > nums[r]` → go right: because the domain of that subsection of the array is  (-inf, r) & (5, inf). 
+  - If `nums[mid] > nums[r]` → go right: because the domain of that subsection of the array is  (-inf, r) & (mid, inf). 
   - Else → go left (including `mid`): because the domain of that subsection would be (mid, r).
 
 - NOTE: Looking at the domains help show which side will contain the lesser item. Since it is sorted we can take advantage of this. 
