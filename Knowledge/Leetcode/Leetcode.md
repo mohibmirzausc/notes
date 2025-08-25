@@ -1,5 +1,5 @@
 [`⬅ Back`](../../Knowledge%20Base.md)
-# Blind75 LeetCode
+# Blind75 
 
 My notes on the Blind75 Problem Set.
 
