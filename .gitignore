@@ -1,0 +1,7 @@
+# Obsidian workspace/layout
+.obsidian/workspace.json
+
+# Optional: ignore other device-specific configs
+.obsidian/workspace-mobile.json
+.obsidian/workspace-mac.json
+.obsidian/workspace-win.json
