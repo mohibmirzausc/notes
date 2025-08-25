@@ -1,8 +1,4 @@
-<a href="../../Knowledge%20Base.md" style="text-decoration:none;">
-    <div style="display:inline-block; padding:6px 12px; background:#444; color:#fff; border-radius:6px; font-weight:bold;">
-        ⬅ Back to Knowledge Base
-    </div>
-</a>
+[`⬅ Back to Knowledge Base`](../../Knowledge%20Base.md)
 # Blind75 LeetCode
 
 My notes on the Blind75 Problem Set.
