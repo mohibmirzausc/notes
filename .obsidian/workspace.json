@@ -27,12 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base.md",
+                "file": "Knowledge/Daily Notes/template.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge Base"
+              "title": "template"
             }
           }
         ],
@@ -165,12 +166,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "458d17fa1d199dd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,12 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "470167e9f66d7a91",
+  "active": "b331aec805f5025f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Knowledge Base.md",
-    "Knowledge/Miscellaneous",
+    "Knowledge/Daily Notes/2025-08-25.md",
+    "Knowledge/Daily Notes/template.md",
+    "Knowledge/Leetcode/Problems/Maximum Product Subarray.md",
     "Knowledge/Leetcode/Leetcode.md",
+    "Knowledge Base.md",
+    "Untitled.base",
+    "2025-08-25.md",
+    "Knowledge/Daily Notes",
+    "conflict-files-obsidian-git.md",
+    "Knowledge/Miscellaneous",
     "Knowledge/Leetcode/Problems/Maximum Subarray.md",
     "Knowledge/Leetcode/Problems/Search in Rotated Sorted Array.md",
     "Knowledge/Leetcode/Problems/Best Time to Buy and Sell Stock.md",
@@ -199,7 +217,6 @@
     "Problems/3Sum.md",
     "Problems",
     "Knowledge/Leetcode/Problems/Find Minimum in Rotated Sorted Array.md",
-    "Knowledge/Leetcode/Problems/Maximum Product Subarray.md",
     "Knowledge/Leetcode/Problems",
     "Knowledge/Leetcode",
     "Knowledge",
