@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Daily Notes/template.md",
+                "file": "Knowledge Base.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "Knowledge Base"
             }
           }
         ],
@@ -197,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b331aec805f5025f",
+  "active": "470167e9f66d7a91",
   "lastOpenFiles": [
-    "Knowledge/Daily Notes/2025-08-25.md",
     "Knowledge/Daily Notes/template.md",
+    "Knowledge/Daily Notes/2025-08-25.md",
     "Knowledge/Leetcode/Problems/Maximum Product Subarray.md",
     "Knowledge/Leetcode/Leetcode.md",
     "Knowledge Base.md",
